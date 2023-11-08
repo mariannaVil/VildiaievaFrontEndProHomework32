@@ -44,6 +44,6 @@ class SuperMath {
     }
 }
 
-let result = new SuperMath();
+const result = new SuperMath();
 let obj = {X: 7, Y: 8, znak: "*"};
 result.check(obj);
